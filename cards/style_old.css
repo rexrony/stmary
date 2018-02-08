@@ -1,0 +1,118 @@
+html,
+button,
+input,
+select,
+textarea {font-family: 'Open Sans', sans-serif;}
+html {
+	font-size: 100%;
+	overflow-y: scroll;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+nav,
+section,
+summary {
+	display: block;
+}
+@page {
+  size: 8.5in 11in;  /* width height */
+}
+
+body{font-family: 'Open Sans', sans-serif; line-height:1.5;
+margin:0px;
+padding:0px;
+background:url(images/background.jpg) no-repeat;
+background-size: cover;
+}
+.container{width:100%; height:100%; }
+img{border-style:none;}
+a img{border-style:none;}
+.lft{float:left;}
+.rht{float:right;}
+
+.wrapper{width:960px; margin:0 auto; padding:10px 5px; border:2px solid #000; }
+
+.cards_con{background:url(images/card_back.jpg) no-repeat;
+width:895px;height:305px;
+background-size: 100% 100%;
+margin: 0 auto;
+}
+.data-entry{text-align:center;}
+.data-entry h2{margin:5px 0 10px 0;}
+
+/**********Data Adding Form*************/
+.input-group{
+  display: block;
+  position: relative;
+  width: 187px;
+  margin:0 0 10px 0;
+  }
+.input-group input[type="text"]{background:none; border:none; border-bottom:2px solid #008A2E; 
+color: #000;
+  padding: 2px 3px 1px;
+  font-size: 13.3px;
+  font-weight:700;
+  width: 160px;
+display: block;
+  /*
+  width:167px;*/ height:25px;
+  margin:2px 0 2px 2px;
+}
+.input-group textarea{width:210px; max-width:270px; height:50px;background:none; border:none; margin:-6px 0 0 58px; 
+border-bottom:2px solid #008A2E; 
+color: #000;
+  padding: 2px 3px 1px;
+  font-size: 13.3px;
+ }
+
+  .input-group input[type="text"]:focus,
+  .input-group input[type="text"]:active{
+    outline: none;}
+
+.add-left{width:23%; padding:16% 0 0 27%;}
+.add-right{width:43%;  padding:5% 0px 0px 6%; }
+
+.add-left label{
+    position:absolute;
+    transform:translateY(-102%);
+    color: #666;
+   /* transition;*/
+   -webkit-transition-delay: 10s; /* Safari */
+    transition-delay: 10s;
+	font-size: 12px;
+   }
+.input-group input[type="text"]:focus  + label,
+.has-value  + label{
+    top: -3px;
+    font-size: 12px;
+    color: #aaa;
+        
+}
+
+/* do not group these rules */
+.input-group ::-webkit-input-placeholder {
+    color: #004700;
+}
+.input-group :-moz-placeholder {
+    /* FF 4-18 */
+   color: #004700;
+}
+.input-group ::-moz-placeholder {
+    /* FF 19+ */
+    color: #004700;
+}
+.input-group :-ms-input-placeholder {
+    /* IE 10+ */
+    color: #004700;
+}
+
+
+
+

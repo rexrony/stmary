@@ -1,0 +1,45 @@
+[25-Mar-2016 18:25:48 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[26-Mar-2016 06:25:40 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[27-Mar-2016 10:34:46 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[27-Mar-2016 18:26:13 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 06:26:14 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 08:33:45 UTC] PHP Fatal error:  Call to undefined function have_rows() in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/content-venue.php on line 40
+[28-Mar-2016 08:34:07 UTC] PHP Fatal error:  Call to undefined function have_rows() in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/content-venue.php on line 40
+[28-Mar-2016 08:35:33 UTC] PHP Fatal error:  Call to undefined function have_rows() in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/content-venue.php on line 40
+[28-Mar-2016 08:36:55 UTC] PHP Fatal error:  Call to undefined function have_rows() in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/content-venue.php on line 40
+[28-Mar-2016 08:39:27 UTC] PHP Fatal error:  Call to undefined function have_rows() in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/content-venue.php on line 41
+[28-Mar-2016 08:39:49 UTC] PHP Fatal error:  Call to undefined function have_rows() in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/content-venue.php on line 43
+[28-Mar-2016 08:41:20 UTC] PHP Fatal error:  Call to undefined function have_rows() in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/content-venue.php on line 43
+[28-Mar-2016 09:13:53 UTC] PHP Fatal error:  Call to undefined function have_rows() in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/content-venue.php on line 47
+[28-Mar-2016 09:15:25 UTC] PHP Fatal error:  Call to undefined function have_rows() in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/content-venue.php on line 47
+[28-Mar-2016 09:15:29 UTC] PHP Fatal error:  Call to undefined function have_rows() in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/content-venue.php on line 47
+[28-Mar-2016 09:15:37 UTC] PHP Fatal error:  Call to undefined function have_rows() in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/content-venue.php on line 47
+[28-Mar-2016 09:15:50 UTC] PHP Fatal error:  Call to undefined function have_rows() in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/content-venue.php on line 47
+[28-Mar-2016 09:16:17 UTC] PHP Fatal error:  Call to undefined function have_rows() in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/content-venue.php on line 47
+[29-Mar-2016 01:07:52 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 02:41:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 23
+[29-Mar-2016 02:41:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 24
+[29-Mar-2016 02:41:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 25
+[29-Mar-2016 02:41:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 26
+[29-Mar-2016 02:43:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 23
+[29-Mar-2016 02:43:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 24
+[29-Mar-2016 02:43:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 25
+[29-Mar-2016 02:43:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 26
+[29-Mar-2016 02:44:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 23
+[29-Mar-2016 02:44:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 24
+[29-Mar-2016 02:44:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 25
+[29-Mar-2016 02:44:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 26
+[29-Mar-2016 02:46:35 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 23
+[29-Mar-2016 02:46:35 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 24
+[29-Mar-2016 02:46:35 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 25
+[29-Mar-2016 02:46:35 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 26
+[29-Mar-2016 02:46:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 23
+[29-Mar-2016 02:46:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 24
+[29-Mar-2016 02:46:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 25
+[29-Mar-2016 02:46:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/index.php on line 26
+[29-Mar-2016 06:24:29 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:52:34 UTC] PHP Warning:  require(advanced-search-result.php): failed to open stream: No such file or directory in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 523
+[29-Mar-2016 06:52:34 UTC] PHP Warning:  require(advanced-search-result.php): failed to open stream: No such file or directory in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 523
+[29-Mar-2016 06:52:34 UTC] PHP Fatal error:  require(): Failed opening required 'advanced-search-result.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 523
+[03-Apr-2016 23:54:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'advanced_search_template' not found or invalid function name in /home/stmarysh/public_html/shaadi/wp-includes/plugin.php on line 235
+[03-Apr-2016 23:54:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'advanced_search_template' not found or invalid function name in /home/stmarysh/public_html/shaadi/wp-includes/plugin.php on line 235

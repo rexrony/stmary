@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lectura Lite v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-01 14:10:53+0000\n"
+"Last-Translator: admin <academiathemes@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:10
+#@ lectura_lite
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:15
+#@ lectura_lite
+msgid "Apologies, but the requested page cannot be found. Perhaps searching will help find a related page."
+msgstr ""
+
+#: 404.php:21
+#@ lectura_lite
+msgid "Browse Categories"
+msgstr ""
+
+#: 404.php:26
+#@ lectura_lite
+msgid "Monthly Archives"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:12
+#@ lectura_lite
+msgid "General Settings"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:13
+#@ lectura_lite
+msgid "This controls various general theme settings."
+msgstr ""
+
+#: academia-admin/academia-customizer.php:21
+#@ lectura_lite
+msgid "Homepage Settings"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:22
+#@ lectura_lite
+msgid "This controls various homepage theme settings."
+msgstr ""
+
+#: academia-admin/academia-customizer.php:30
+#@ lectura_lite
+msgid "Color Settings"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:31
+#@ lectura_lite
+msgid "Customize some basic theme colors."
+msgstr ""
+
+#: academia-admin/academia-customizer.php:50
+#@ lectura_lite
+msgid "Logo File Upload"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:57
+#: footer.php:54
+#@ lectura_lite
+msgid "Copyright &copy; "
+msgstr ""
+
+#: academia-admin/academia-customizer.php:57
+#: footer.php:54
+#@ lectura_lite
+msgid "All Rights Reserved"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:69
+#@ lectura_lite
+msgid "Copyright text in Footer"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:86
+#@ lectura_lite
+msgid "Display Slideshow"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:102
+#@ lectura_lite
+msgid "Number of Images to Display"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:119
+#@ reception
+msgid "Display Featured Pages"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:134
+#@ reception
+msgid "Featured Page #1"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:149
+#@ reception
+msgid "Featured Page #2"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:164
+#@ reception
+msgid "Featured Page #3"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:182
+#@ lectura_lite
+msgid "Header top border color"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:203
+#@ lectura_lite
+msgid "Menu background color"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:224
+#@ lectura_lite
+msgid "Main body text color"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:245
+#@ lectura_lite
+msgid "Main body anchor(link) color"
+msgstr ""
+
+#: academia-admin/academia-customizer.php:265
+#@ lectura_lite
+msgid "Main body anchor(link) :hover color"
+msgstr ""
+
+#: academia-admin/post-options.php:63
+#@ lectura_lite
+msgid "Feature this Post in the Homepage Slideshow"
+msgstr ""
+
+#: archive.php:10
+#@ lectura_lite
+msgid "Post Tagged with:"
+msgstr ""
+
+#: archive.php:11
+#: archive.php:12
+#: archive.php:13
+#@ lectura_lite
+msgid "Archive for"
+msgstr ""
+
+#: author.php:11
+#@ lectura_lite
+msgid "Posts by"
+msgstr ""
+
+#: comments.php:2
+#@ lectura_lite
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:14
+#@ lectura_lite
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:14
+#@ lectura_lite
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:14
+#@ lectura_lite
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:18
+#: comments.php:32
+#@ lectura_lite
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:18
+#: comments.php:32
+#@ lectura_lite
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:44
+#@ lectura_lite
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:59
+#@ lectura_lite
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:64
+#@ lectura_lite
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:69
+#@ lectura_lite
+msgid "Your Website"
+msgstr ""
+
+#: comments.php:76
+#@ lectura_lite
+msgid "Comment"
+msgstr ""
+
+#: comments.php:79
+#, php-format
+#@ default
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#: comments.php:80
+#@ lectura_lite
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:81
+#@ lectura_lite
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:82
+#@ lectura_lite
+msgid "Submit Comment"
+msgstr ""
+
+#: content-page.php:18
+#@ lectura_lite
+msgid "Edit page"
+msgstr ""
+
+#: content-page.php:29
+#: content-post.php:22
+#@ lectura_lite
+msgid "Pages"
+msgstr ""
+
+#: content-post.php:11
+#@ lectura_lite
+msgid "Edit post"
+msgstr ""
+
+#: content-post.php:23
+#@ lectura_lite
+msgid "Tags"
+msgstr ""
+
+#: featured-pages.php:23
+#: featured-pages.php:48
+#: featured-pages.php:73
+#: loop-archives.php:27
+#: loop.php:14
+#, php-format
+#@ reception
+#@ lectura_lite
+msgid "Permalink to %s"
+msgstr ""
+
+#: footer.php:53
+#@ lectura_lite
+msgid "Theme by"
+msgstr ""
+
+#: functions.php:278
+#@ lectura_lite
+msgid "&laquo;"
+msgstr ""
+
+#: functions.php:279
+#@ lectura_lite
+msgid "&raquo;"
+msgstr ""
+
+#: functions.php:290
+#@ lectura_lite
+msgid "Page"
+msgstr ""
+
+#: functions.php:290
+#@ lectura_lite
+msgid "of"
+msgstr ""
+
+#: functions.php:320
+#, php-format
+#@ lectura_lite
+msgid "%s"
+msgstr ""
+
+#: functions.php:321
+#, php-format
+#@ lectura_lite
+msgid "%s at %s"
+msgstr ""
+
+#: functions.php:321
+#@ lectura_lite
+msgid "Edit"
+msgstr ""
+
+#: functions.php:325
+#@ lectura_lite
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:346
+#@ lectura_lite
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:346
+#@ lectura_lite
+msgid "(Edit)"
+msgstr ""
+
+#: header.php:71
+#@ lectura_lite
+msgid "Please set your Main Menu on this page:"
+msgstr ""
+
+#: header.php:71
+#@ lectura_lite
+msgid "Appearance > Menus"
+msgstr ""
+
+#: header.php:72
+#@ lectura_lite
+msgid "Other options and theme elements can be set up on this page:"
+msgstr ""
+
+#: header.php:72
+#@ lectura_lite
+msgid "Appearance > Customize"
+msgstr ""
+
+#: home.php:35
+#@ lectura_lite
+msgid "Recent Posts"
+msgstr ""
+
+#: pagination.php:14
+#@ lectura_lite
+msgid "&larr; Previous"
+msgstr ""
+
+#: pagination.php:15
+#@ lectura_lite
+msgid "Next &rarr;"
+msgstr ""
+
+#: search.php:10
+#@ lectura_lite
+msgid "Search Results for"
+msgstr ""
+
+#: slideshow-home.php:36
+#@ lectura_lite
+msgid "Continue Reading"
+msgstr ""
+
+#: slideshow-home.php:49
+#@ lectura_lite
+msgid "Please mark some posts as \"Featured\" for the Homepage Slideshow."
+msgstr ""
+
+#: slideshow-home.php:51
+#@ lectura_lite
+msgid "For more information please"
+msgstr ""
+
+#: slideshow-home.php:51
+#@ lectura_lite
+msgid "read the documentation"
+msgstr ""
+

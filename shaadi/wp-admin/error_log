@@ -1,0 +1,72 @@
+[25-Mar-2016 08:02:51 UTC] PHP Warning:  include_once(core/controllers/settings.php): failed to open stream: No such file or directory in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 342
+[25-Mar-2016 08:02:51 UTC] PHP Warning:  include_once(): Failed opening 'core/controllers/settings.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 342
+[25-Mar-2016 08:02:51 UTC] PHP Fatal error:  Class 'acf_settings' not found in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 343
+[25-Mar-2016 08:03:52 UTC] PHP Warning:  include_once(core/controllers/settings.php): failed to open stream: No such file or directory in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 342
+[25-Mar-2016 08:03:52 UTC] PHP Warning:  include_once(): Failed opening 'core/controllers/settings.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 342
+[25-Mar-2016 08:03:52 UTC] PHP Fatal error:  Class 'acf_settings' not found in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 343
+[25-Mar-2016 08:03:53 UTC] PHP Warning:  include_once(core/controllers/settings.php): failed to open stream: No such file or directory in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 342
+[25-Mar-2016 08:03:53 UTC] PHP Warning:  include_once(): Failed opening 'core/controllers/settings.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 342
+[25-Mar-2016 08:03:53 UTC] PHP Fatal error:  Class 'acf_settings' not found in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 343
+[25-Mar-2016 08:03:53 UTC] PHP Warning:  include_once(core/controllers/settings.php): failed to open stream: No such file or directory in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 342
+[25-Mar-2016 08:03:53 UTC] PHP Warning:  include_once(): Failed opening 'core/controllers/settings.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 342
+[25-Mar-2016 08:03:53 UTC] PHP Fatal error:  Class 'acf_settings' not found in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 343
+[25-Mar-2016 08:05:10 UTC] PHP Warning:  include_once(core/fields/date_picker/date_picker.php): failed to open stream: No such file or directory in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 266
+[25-Mar-2016 08:05:10 UTC] PHP Warning:  include_once(): Failed opening 'core/fields/date_picker/date_picker.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 266
+[25-Mar-2016 08:05:10 UTC] PHP Fatal error:  Class 'acf_Date_picker' not found in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 286
+[25-Mar-2016 08:05:11 UTC] PHP Warning:  include_once(core/fields/date_picker/date_picker.php): failed to open stream: No such file or directory in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 266
+[25-Mar-2016 08:05:11 UTC] PHP Warning:  include_once(): Failed opening 'core/fields/date_picker/date_picker.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 266
+[25-Mar-2016 08:05:11 UTC] PHP Fatal error:  Class 'acf_Date_picker' not found in /home/stmarysh/public_html/shaadi/wp-content/plugins/advanced-custom-fields/acf.php on line 286
+[28-Mar-2016 08:17:04 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 08:17:07 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 08:17:09 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 08:17:09 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 08:17:09 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 08:17:09 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 08:17:35 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 08:17:35 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 08:17:35 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 08:17:35 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 11:51:39 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 11:55:34 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 11:57:13 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 11:58:26 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 11:58:29 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 11:58:29 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 11:58:29 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 11:58:29 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[28-Mar-2016 11:58:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php:522) in /home/stmarysh/public_html/shaadi/wp-includes/pluggable.php on line 1228
+[28-Mar-2016 11:58:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php:522) in /home/stmarysh/public_html/shaadi/wp-includes/pluggable.php on line 1228
+[29-Mar-2016 06:42:32 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:42:37 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:43:32 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:44:32 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:44:37 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:45:32 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:46:38 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:47:33 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:48:39 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:48:52 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:49:09 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:49:23 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:49:34 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:49:34 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:49:34 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 06:49:34 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 522
+[29-Mar-2016 10:57:15 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 531
+[29-Mar-2016 10:57:22 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 531
+[29-Mar-2016 10:57:22 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 531
+[29-Mar-2016 10:57:22 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 531
+[29-Mar-2016 10:57:22 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 531
+[29-Mar-2016 10:57:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php:531) in /home/stmarysh/public_html/shaadi/wp-includes/pluggable.php on line 1228
+[29-Mar-2016 10:57:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php:531) in /home/stmarysh/public_html/shaadi/wp-includes/pluggable.php on line 1228
+[31-Mar-2016 06:29:05 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 531
+[31-Mar-2016 06:43:23 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 531
+[31-Mar-2016 06:43:30 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 531
+[31-Mar-2016 06:43:46 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 531
+[31-Mar-2016 06:48:26 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 531
+[31-Mar-2016 06:48:30 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 531
+[31-Mar-2016 06:48:30 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 531
+[31-Mar-2016 06:48:30 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 531
+[31-Mar-2016 06:48:30 UTC] PHP Warning:  Attempt to modify property of non-object in /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php on line 531
+[31-Mar-2016 06:48:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php:531) in /home/stmarysh/public_html/shaadi/wp-includes/pluggable.php on line 1228
+[31-Mar-2016 06:48:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stmarysh/public_html/shaadi/wp-content/themes/shaadi/functions.php:531) in /home/stmarysh/public_html/shaadi/wp-includes/pluggable.php on line 1228

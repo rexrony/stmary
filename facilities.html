@@ -1,0 +1,258 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <title>Welcome to St.Mary's School</title>
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+        <link href="css/facilities.css" rel="stylesheet" type="text/css" media="screen">
+		<link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen">
+    <script type="text/javascript" src="js/linkverifierhelper.js"></script></head>
+    <body>
+		<div id="wrap">
+			<div id="header">
+				
+				<div id="menu">
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="about.html">About Us</a></li>
+						<li><a href="vision.html">Vision</a></li>
+                        <li><a href="facilities.html"><font color="#FAAF25">Facilities</font></a></li>
+                                       
+                         <li><a href="gallery.html">Gallery</a></li>
+                         
+                         <li><a href="activites.html">Activities</a></li>
+                        <li><a href="latestNews.html">Latest News </a></li>
+						  <li><a href="career.html">Career </a></li>
+						    
+                      
+						
+                       
+                        <li><a href="http://stmaryshyd.edu.pk/contact.html">Contact Us</a></li>
+					</ul>
+				</div>
+			</div>
+			
+			<div id="intro">
+           
+				<h2> <img src="./images/logobanner.jpg">
+			</h2></div>
+			<div class="razd_bor"></div>
+			<div class="prew_box prew_bg1">				
+				
+				<div id="slider-wrapper">        
+           
+			        
+        </div>
+
+<script type="text/javascript" src="./facilities_files/jquery-1.4.3.min.js"></script>
+    <script type="text/javascript" src="./facilities_files/jquery.nivo.slider.pack.js"></script>
+    <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+    </script>
+				
+			</div>
+			<div class="prew_bot">
+
+     
+     <script language="JavaScript1.2">
+
+/*
+Cross browser Marquee script- © Dynamic Drive (www.dynamicdrive.com)
+For full source code, 100's more DHTML scripts, and Terms Of Use, visit http://www.dynamicdrive.com
+Credit MUST stay intact
+*/
+
+//Specify the marquee's width (in pixels)
+var marqueewidth="1000px"
+//Specify the marquee's height
+var marqueeheight="25px"
+//Specify the marquee's marquee speed (larger is faster 1-10)
+var marqueespeed=1
+//configure background color:
+var marqueebgcolor="#"
+//Pause marquee onMousever (0=no. 1=yes)?
+var pauseit=1
+
+//Specify the marquee's content (don't delete <nobr> tag)
+//Keep all content on ONE line, and backslash any single quotations (ie: that\'s great):
+
+
+var marqueecontent='<nobr><font face="Arial"> <img src="images/new.gif" width="20">&nbsp; <b>CONGRATULATIONS! "HIBA KHAN" </b> of Class 10th </b> for achieving <b>8th POSITION </b> in <b> S.S.C. Part II Annual Examination 2014-15. </b> </b> <a href= "-Summer vacations.jpg"> <img src="clickhere.gif" width="20">&nbsp; Click Here</a> for details. &nbsp;&nbsp; <img src="images/new.gif" width="20">&nbsp; <b> Admissions </b> are open for <b> XI Year Classes </b>. Forms are available in the main office. <b> Timings: 08:00 a.m. to 12:00 noon </b>. <a href= "XI addmision.jpg"> <img src="clickhere.gif" width="20">&nbsp; Click Here</a> for details. &nbsp;&nbsp; <img src="images/st.gif" width="20">&nbsp; Now you can join us on <b> FACEBOOK </b> <a href="https://www.facebook.com/stmarys.hyderabad/"> <img src="clickhere.gif" width="20">&nbsp; Click Here</a> to join us.&nbsp;&nbsp; <img src="images/st.gif" width="20">&nbsp; Group photo of teachers uploaded in photo gallery  <a href="teaching_staff/teaching_staff.html">  <img src="clickhere.gif" width="20">&nbsp; Click Here</a> to see the group photo. <img src="images/st.gif" width="20">&nbsp; Pictures of sports activities have been uploaded <a href="sports/sports.html">  <img src="clickhere.gif" width="20">&nbsp; Click Here</a> to check the gallery.</font></nobr>'                            
+
+
+////NO NEED TO EDIT BELOW THIS LINE////////////
+marqueespeed=(document.all)? marqueespeed : Math.max(1, marqueespeed-1) //slow speed down by 1 for NS
+var copyspeed=marqueespeed
+var pausespeed=(pauseit==0)? copyspeed: 0
+var iedom=document.all||document.getElementById
+if (iedom)
+document.write('<span id="temp" style="visibility:hidden;position:absolute;top:-100px;left:-9000px">'+marqueecontent+'</span>')
+var actualwidth=''
+var cross_marquee, ns_marquee
+
+function populate(){
+if (iedom){
+cross_marquee=document.getElementById? document.getElementById("iemarquee") : document.all.iemarquee
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+cross_marquee.innerHTML=marqueecontent
+actualwidth=document.all? temp.offsetWidth : document.getElementById("temp").offsetWidth
+}
+else if (document.layers){
+ns_marquee=document.ns_marquee.document.ns_marquee2
+ns_marquee.left=parseInt(marqueewidth)+8
+ns_marquee.document.write(marqueecontent)
+ns_marquee.document.close()
+actualwidth=ns_marquee.document.width
+}
+lefttime=setInterval("scrollmarquee()",20)
+}
+window.onload=populate
+
+function scrollmarquee(){
+if (iedom){
+if (parseInt(cross_marquee.style.left)>(actualwidth*(-1)+8))
+cross_marquee.style.left=parseInt(cross_marquee.style.left)-copyspeed+"px"
+else
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+
+}
+else if (document.layers){
+if (ns_marquee.left>(actualwidth*(-1)+8))
+ns_marquee.left-=copyspeed
+else
+ns_marquee.left=parseInt(marqueewidth)+8
+}
+}
+
+if (iedom||document.layers){
+with (document){
+document.write('<table border="0" cellspacing="0" cellpadding="0"><td>')
+if (iedom){
+write('<div style="position:relative;width:'+marqueewidth+';height:'+marqueeheight+';overflow:hidden">')
+write('<div style="position:absolute;width:'+marqueewidth+';height:'+marqueeheight+';background-color:'+marqueebgcolor+'" onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed">')
+write('<div id="iemarquee" style="position:absolute;left:0px;top:0px"></div>')
+write('</div></div>')
+}
+else if (document.layers){
+write('<ilayer width='+marqueewidth+' height='+marqueeheight+' name="ns_marquee" bgColor='+marqueebgcolor+'>')
+write('<layer name="ns_marquee2" left=0 top=0 onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed"></layer>')
+write('</ilayer>')
+}
+document.write('</td></table>')
+}
+}
+</script><span id="temp" style="visibility:hidden;position:absolute;top:-100px;left:-9000px"><nobr><font face="Arial">  <img src="images1/new.gif" width="20">&nbsp; <b></b> <a href="http://stmaryshyd.edu.pk/upcoming.html"></a> &nbsp;&nbsp;  <img src="images1/new/st.gif" width="20">&nbsp; <a href="http://stmaryshyd.edu.pk/construction.html"></a> &nbsp;&nbsp;  <img src="images/st.gif" width="20">&nbsp; &amp;  <a href="http://stmaryshyd.edu.pk/construction.html"> </a> &nbsp;&nbsp; <img src="images/st.gif" width="20">&nbsp;  <a href="http://stmaryshyd.edu.pk/teaching_staff/teaching_staff.html"> </a> <img src="images/st.gif" width="20">&nbsp; <a href="http://stmaryshyd.edu.pk/sports/sports.html"></a> </font></nobr></span><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><div style="position:relative;width:1000px;height:25px;overflow:hidden"><div style="position:absolute;width:1000px;height:25px;background-color:#" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=marqueespeed"><div id="iemarquee" style="position: absolute; left: -505px; top: 0px;"><nobr><font face="Arial">  <img src="images/new.gif" width="20">&nbsp; <b> </b>   <a href="http://stmaryshyd.edu.pk/upcoming.html"></a> .&nbsp;&nbsp;  <img src="images/st.gif" width="20">&nbsp;  <a href="http://stmaryshyd.edu.pk/construction.html"></a> .&nbsp;&nbsp;  <img src="images/st.gif" width="20">&nbsp;  &amp;  <a href="http://stmaryshyd.edu.pk/construction.html"></a> .&nbsp;&nbsp; <img src="images/st.gif" width="20">&nbsp;  <a href="http://stmaryshyd.edu.pk/teaching_staff/teaching_staff.html"></a>  <img src="images/st.gif" width="20">&nbsp;  <a href="http://stmaryshyd.edu.pk/sports/sports.html"></a>  .</font></nobr></div></div></div></td></tr></tbody></table>
+  
+			</div>
+			<div id="content">
+				
+				<h3><a href="http://stmaryshyd.edu.pk/facilities.html#">Resources &amp; Facilities</a></h3>
+				<div class="box_3col">
+					<div class="col1">
+						<p align="justify"><a href="http://stmaryshyd.edu.pk/facilities.html#">St. Mary's school </a><br>
+                        
+<img style="float:left;padding:4px;" src="./facilities_files/min_banner.jpg" width="150">St. Mary's school is situated in the heart of Hyderabad. In central location makes it easily accessible from all parts of the city.<br>
+The school provides a quality education at minimum cost. <br>It offers a very conductive learning environment with appropriate and well equipped classrooms, laboratories, Computer lab and library facilities.<br>
+  <b>LIBRARY:</b><br>
+  The library of St. Mary's School includes extensive and excellent collection of approximately (5106) course and reference<img style="float:left;padding:4px;" src="./facilities_files/library.jpg" width="150"> books on various subjects. In addition, it subscribes to academic and professional magazines and newspapers, story books in Urdu and English. Students are encouraged to use the library for research and their studies 
+
+
+                      </p>
+					</div>
+					<div class="col2">
+						
+						<p align="justify">
+                        It has a ground used for sports and<img style="float:left;padding:4px;" src="./facilities_files/f2.jpg" width="150"> other event and activities and a school stage for school Assembly and Dramas. The basement hall, is dedicated to Sister Philomena Harris's name, honoring her great contribution and unforgetable services to this instituation. All indoor activities take place in this hall.<br>
+                        <b>CLASS ROOMS:</b><br>
+                        The classrooms are large and airy. They are well lit<img style="float:left;padding:4px;" src="./facilities_files/f6.jpg" width="300"> and ventilated and also well equipped with furniture.
+                        <br>
+                         <b>THE SCHOOL GROUNDS</b><br>
+                         The school has two big grounds on which all kinds of sporting activities and other events are conducted.
+                       
+                        
+                        
+					  </p>
+</div>
+					<div class="col3">
+						<p align="justify">
+                        <img style="float:left;padding:4px;" src="./facilities_files/f1.jpg" width="150"> It provides opportunity to individuals to enjoy the school activities.
+                         
+                        <b>LABORATORIES:</b><br>
+                               There are four science laboratories for conducting practicals <img style="float:left;padding:4px;" src="./facilities_files/f10.jpg" width="150">in the subjects of Chemistry, Physics, Biology and Computer. All the laboratories are large, well ventilated and well equipped.<br><br><br><br>
+                               Today computers are the demand of <img style="float:left;padding:4px;" src="./facilities_files/f12.jpg" width="150"><br>the world and for this reason students are encouraged to use the computer and internet to gather information and prepare assignments.
+                       
+                        
+                        </p>
+					</div>
+					<div class="clear"></div>
+				</div>
+				
+				<div class="clear"></div>
+			</div>
+			<div id="footer">
+				<div class="wid_center" style="padding-bottom: 20px;">
+					<div class="foot_column4">
+                        <div class="foot_col1">
+                            <h4>SiteMap</h4>
+                        </div>
+                        <div class="foot_col2">
+                            <h4>Contact Information</h4>
+                        </div>
+                        <div class="foot_col3">
+                       		<h4>Students' Corner</h4>
+                        </div>
+                        <div class="foot_col4">
+                            <h4>Follow Us</h4>
+                        </div>
+                        <div style="clear: both"></div>
+                    </div>
+					
+					<div class="foot_column4 foot_bg">
+                        <div class="foot_col1">
+                            <ul class="ls">
+                                <li><a href="http://stmaryshyd.edu.pk/message.html">Principal Message</a></li>
+                              <li><a href="http://stmaryshyd.edu.pk/principal.html">Sr. Philomena Harris </a></li>
+                                <li><a href="http://stmaryshyd.edu.pk/admission.html">Conduct &amp; Discipline</a></li>
+
+                                <li><a href="http://stmaryshyd.edu.pk/hm.html">Head Mistresses</a></li>
+                                
+                                                                <li><a href="http://stmaryshyd.edu.pk/achievers.html">A-1 Achievers</a></li>
+								
+                            </ul>
+                        </div>
+                        <div class="foot_col2">
+                            	<p>St. Mary's Convent Girls Higher Secondary School </p>
+								<p>Hyderabad City</p>
+								<p>Phone: 0223-642611</p>
+								<p>Fax: 0000000000000</p>
+								<p>E-mail:info@stmaryshyd.edu.pk</p>
+                                <p> </p>
+                        </div>
+                        <div class="foot_col3">
+                       		 <ul class="ls">
+                                <li><a href="http://stmaryshyd.edu.pk/facilities.html#">Study Tips for Students</a></li>
+                              
+                                <li><a href="http://stmaryshyd.edu.pk/facilities.html#">Educational Software Links</a></li>
+                                <li><a href="http://stmaryshyd.edu.pk/facilities.html#">How to Improve hand writing</a></li>
+                                <li><a href="http://stmaryshyd.edu.pk/facilities.html#">Motivational Quotations</a></li>
+                                
+								<li><a href="http://stmaryshyd.edu.pk/facilities.html#">Student of the Year</a></li>
+                            </ul>
+						</div>
+                        <div class="foot_col4">
+	                        <div class="link1"><a href="http://stmaryshyd.edu.pk/contact.html">Send us feedback</a></div>
+	                        <div class="link2"><a href="http://www.facebook.com/">Be a fan on Facebook</a></div>
+	                       
+	                        <div class="link4"><a href="http://www.twitter.com/">Follow us on Twitter</a></div>
+                             <div class="link3"><a href="http://stmaryshyd.edu.pk/facilities.html#">Downloads</a></div>
+                        </div>
+                        <div style="clear: both"></div>
+                    </div>
+				</div>
+				<div id="footer_bot">
+                <div style="font-size:11px; color:#000" class="left">Design and Develop by <a style="font-size:11px; color:#000" href="http://rexrony.wordpress.com/">Ronald Joseph</a>&nbsp;<small>Copyright &copy; 2014</small></div>
+					</div>
+	
+</div></body></html>

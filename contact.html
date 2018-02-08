@@ -1,0 +1,284 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <title>Welcome to St.Mary's School</title>
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+        <link rel="stylesheet" type="text/css" href="css/contact.css"/>
+		<link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen"> 
+    </head>
+    <body>
+		<div id="wrap">
+			<div id="header">
+				
+				<div id="menu">
+					<ul>
+						<li><a href="http://stmaryshyd.edu.pk/index.html">Home</a></li>
+						<li><a href="http://stmaryshyd.edu.pk/about.html">About Us</a></li>
+						<li><a href="http://stmaryshyd.edu.pk/vision.html">Vision</a></li>
+                        <li><a href="http://stmaryshyd.edu.pk/facilities.html">Facilities</a></li>
+                                       
+                         <li><a href="http://stmaryshyd.edu.pk/gallery.html">Gallery</a></li>
+                         
+                         <li><a href="http://stmaryshyd.edu.pk/activites.html">Activities</a></li>
+                        <li><a href="http://stmaryshyd.edu.pk/latestNews.html">Latest News </a></li>
+						  <li><a href="http://stmaryshyd.edu.pk/career.html">Career </a></li>
+						 
+                        <li><a href="contact.html"><font color="#FAAF25">Contact Us</font></a></li>
+					</ul>
+				</div>
+			</div>
+			
+			<div id="intro">
+           
+				<h2> <img src="images/logobanner.jpg">
+			</h2></div>
+			<div class="razd_bor"></div>
+			<div class="prew_box prew_bg1">				
+				
+				<div id="slider-wrapper">        
+           
+			        
+        </div>
+
+<script type="text/javascript" src="js/jquery-1.4.3.min.js"></script>
+    <script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
+    <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+    </script>
+				
+			</div>
+			<div class="prew_bot">
+				
+                
+     
+     
+     
+     
+     
+     <script language="JavaScript1.2">
+
+/*
+Cross browser Marquee script- © Dynamic Drive (www.dynamicdrive.com)
+For full source code, 100's more DHTML scripts, and Terms Of Use, visit http://www.dynamicdrive.com
+Credit MUST stay intact
+*/
+
+//Specify the marquee's width (in pixels)
+var marqueewidth="1000px"
+//Specify the marquee's height
+var marqueeheight="25px"
+//Specify the marquee's marquee speed (larger is faster 1-10)
+var marqueespeed=1
+//configure background color:
+var marqueebgcolor="#"
+//Pause marquee onMousever (0=no. 1=yes)?
+var pauseit=1
+
+//Specify the marquee's content (don't delete <nobr> tag)
+//Keep all content on ONE line, and backslash any single quotations (ie: that\'s great):
+
+
+var marqueecontent='<nobr><font face="Arial"> <img src="images/new.gif" width="20">&nbsp; <b>SUMMER VACATIONS  </b> are from <b> 01st June, 2015 to 02nd August, 2015. </b> </b> <b>SCHOOL RE-OPENS </b> from <b> Monday, 03rd August, 2015. </b> </b> <a href= "Summer vacations.jpg"> <img src="clickhere.gif" width="20">&nbsp; Click Here</a> for details. &nbsp;&nbsp; <img src="images/new.gif" width="20">&nbsp; <b> Admissions </b> are open for <b> XI Year Classes </b>. Forms are available in the main office. <b> Timings: 08:00 a.m. to 12:00 noon </b>. <a href= "XI addmision.jpg"> <img src="clickhere.gif" width="20">&nbsp; Click Here</a> for details. &nbsp;&nbsp; <img src="images/st.gif" width="20">&nbsp; Now you can join us on <b> FACEBOOK </b> <a href="https://www.facebook.com/stmarys.hyderabad/"> <img src="clickhere.gif" width="20">&nbsp; Click Here</a> to join us.&nbsp;&nbsp; <img src="images/st.gif" width="20">&nbsp; Group photo of teachers uploaded in photo gallery  <a href="teaching_staff/teaching_staff.html">  <img src="clickhere.gif" width="20">&nbsp; Click Here</a> to see the group photo. <img src="images/st.gif" width="20">&nbsp; Pictures of sports activities have been uploaded <a href="sports/sports.html">  <img src="clickhere.gif" width="20">&nbsp; Click Here</a> to check the gallery.</font></nobr>'              
+ 
+
+
+
+////NO NEED TO EDIT BELOW THIS LINE////////////
+marqueespeed=(document.all)? marqueespeed : Math.max(1, marqueespeed-1) //slow speed down by 1 for NS
+var copyspeed=marqueespeed
+var pausespeed=(pauseit==0)? copyspeed: 0
+var iedom=document.all||document.getElementById
+if (iedom)
+document.write('<span id="temp" style="visibility:hidden;position:absolute;top:-100px;left:-9000px">'+marqueecontent+'</span>')
+var actualwidth=''
+var cross_marquee, ns_marquee
+
+function populate(){
+if (iedom){
+cross_marquee=document.getElementById? document.getElementById("iemarquee") : document.all.iemarquee
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+cross_marquee.innerHTML=marqueecontent
+actualwidth=document.all? temp.offsetWidth : document.getElementById("temp").offsetWidth
+}
+else if (document.layers){
+ns_marquee=document.ns_marquee.document.ns_marquee2
+ns_marquee.left=parseInt(marqueewidth)+8
+ns_marquee.document.write(marqueecontent)
+ns_marquee.document.close()
+actualwidth=ns_marquee.document.width
+}
+lefttime=setInterval("scrollmarquee()",20)
+}
+window.onload=populate
+
+function scrollmarquee(){
+if (iedom){
+if (parseInt(cross_marquee.style.left)>(actualwidth*(-1)+8))
+cross_marquee.style.left=parseInt(cross_marquee.style.left)-copyspeed+"px"
+else
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+
+}
+else if (document.layers){
+if (ns_marquee.left>(actualwidth*(-1)+8))
+ns_marquee.left-=copyspeed
+else
+ns_marquee.left=parseInt(marqueewidth)+8
+}
+}
+
+if (iedom||document.layers){
+with (document){
+document.write('<table border="0" cellspacing="0" cellpadding="0"><td>')
+if (iedom){
+write('<div style="position:relative;width:'+marqueewidth+';height:'+marqueeheight+';overflow:hidden">')
+write('<div style="position:absolute;width:'+marqueewidth+';height:'+marqueeheight+';background-color:'+marqueebgcolor+'" onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed">')
+write('<div id="iemarquee" style="position:absolute;left:0px;top:0px"></div>')
+write('</div></div>')
+}
+else if (document.layers){
+write('<ilayer width='+marqueewidth+' height='+marqueeheight+' name="ns_marquee" bgColor='+marqueebgcolor+'>')
+write('<layer name="ns_marquee2" left=0 top=0 onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed"></layer>')
+write('</ilayer>')
+}
+document.write('</td></table>')
+}
+}
+</script><span id="temp" style="visibility:hidden;position:absolute;top:-100px;left:-9000px"><nobr><font face="Arial">  <img src="images1/new.gif" width="20">&nbsp; <b></b> <a href="http://stmaryshyd.edu.pk/upcoming.html"></a> &nbsp;&nbsp;  <img src="images1/new/st.gif" width="20">&nbsp; <a href="http://stmaryshyd.edu.pk/construction.html"></a> &nbsp;&nbsp;  <img src="images/st.gif" width="20">&nbsp; &amp;  <a href="http://stmaryshyd.edu.pk/construction.html"> </a> &nbsp;&nbsp; <img src="images/st.gif" width="20">&nbsp;  <a href="http://stmaryshyd.edu.pk/teaching_staff/teaching_staff.html"> </a> <img src="images/st.gif" width="20">&nbsp; <a href="http://stmaryshyd.edu.pk/sports/sports.html"></a> </font></nobr></span><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><div style="position:relative;width:1000px;height:25px;overflow:hidden"><div style="position:absolute;width:1000px;height:25px;background-color:#" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=marqueespeed"><div id="iemarquee" style="position: absolute; left: -505px; top: 0px;"><nobr><font face="Arial">  <img src="images/new.gif" width="20">&nbsp; <b> </b>   <a href="http://stmaryshyd.edu.pk/upcoming.html"></a> .&nbsp;&nbsp;  <img src="images/st.gif" width="20">&nbsp;  <a href="http://stmaryshyd.edu.pk/construction.html"></a> .&nbsp;&nbsp;  <img src="images/st.gif" width="20">&nbsp;  &amp;  <a href="http://stmaryshyd.edu.pk/construction.html"></a> .&nbsp;&nbsp; <img src="images/st.gif" width="20">&nbsp;  <a href="http://stmaryshyd.edu.pk/teaching_staff/teaching_staff.html"></a>  <img src="images/st.gif" width="20">&nbsp;  <a href="http://stmaryshyd.edu.pk/sports/sports.html"></a>  .</font></nobr></div></div></div></td></tr></tbody></table>     
+			</div>
+			<div id="content">
+				
+				<h3><a href="http://stmaryshyd.edu.pk/contact.html"> Contact Us</a></h3>
+				<div class="box_3col">
+					<div class="col1">
+                    <table width="850" border="0">
+  <tbody><tr>
+    <td> <font color="#006600" size="+1">Address</font></td>
+    <td> <font color="#006600" size="+1">&nbsp;&nbsp;Location Map <a href="images/map.jpg">&nbsp;click here &nbsp;</a>to maximize the map</font></td>
+  </tr>
+  <tr>
+    <td><p align="justify">
+                       
+                       <b>St Mary's Convent Girls Higher Secondary School</b><br>
+                        Foujdari Road <br>
+                        Hyderabad <br>
+                        <br><font color="#006600" size="+1">Email:</font>
+                        <br>
+                        info@stmaryshyd.edu.pk<br>
+                        <br><font color="#006600" size="+1">Phone:</font>
+                       <br>
+                       0223-642611
+                        
+                      </p></td>
+    <td><div id="map_canvas" style="width:400px;height:200px;"></div>
+
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script>
+        window.onload = function() {
+            initialize();
+        }
+    
+        function initialize() {
+            var myLatlng = new google.maps.LatLng(25.39390748981598, 68.36692249739076);
+
+            var myOptions = {
+                zoom: 16,
+                center: myLatlng,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            }
+            
+            var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+             
+            var infowindow = new google.maps.InfoWindow({
+                content: "St Mary's Girls School, Hyderabad"
+            });
+             
+            var marker = new google.maps.Marker({
+                position: myLatlng,
+                map: map,
+                title: "St Mary's Girls School, Hyderabad"
+            });
+
+            google.maps.event.addListener(marker, 'click', function() {
+                infowindow.open(map,marker);
+            });
+        }
+    </script>
+</td>
+  </tr>
+   </tbody>
+     </table>
+        </div>
+		  </div>
+					<div class="clear"></div>
+				</div>
+				
+				<div class="clear"></div>
+			</div>
+			<div id="footer">
+				<div class="wid_center" style="padding-bottom: 20px;">
+					<div class="foot_column4">
+                        <div class="foot_col1">
+                            <h4>SiteMap</h4>
+                        </div>
+                        <div class="foot_col2">
+                            <h4>Contact Information</h4>
+                        </div>
+                        <div class="foot_col3">
+                       		<h4>Students' Corner</h4>
+                        </div>
+                        <div class="foot_col4">
+                            <h4>Follow Us</h4>
+                        </div>
+                        <div style="clear: both"></div>
+                    </div>
+					
+					<div class="foot_column4 foot_bg">
+                        <div class="foot_col1">
+                            <ul class="ls">
+                                <li><a href="http://stmaryshyd.edu.pk/message.html">Principal Message</a></li>
+                              <li><a href="http://stmaryshyd.edu.pk/principal.html">Sr. Philomena Harris </a></li>
+                                <li><a href="http://stmaryshyd.edu.pk/admission.html">Conduct &amp; Discipline</a></li>
+
+                                <li><a href="http://stmaryshyd.edu.pk/hm.html">Head Mistresses</a></li>
+                                 <li><a href="http://stmaryshyd.edu.pk/achievers.html">A-1 Achievers</a></li>
+								
+                            </ul>
+                        </div>
+                        <div class="foot_col2">
+                            	<p>St. Mary's Convent Girls Higher Secondary School </p>
+								<p>Hyderabad City</p>
+								<p>Phone: 0223-642611</p>
+								<p>Fax: 0000000000000</p>
+								<p>E-mail:info@stmaryshyd.edu.pk</p>
+                                <p> </p>
+                        </div>
+                        <div class="foot_col3">
+                       		 <ul class="ls">
+                                <li><a href="http://stmaryshyd.edu.pk/contact.html#">Study Tips for Students</a></li>
+                              
+                                <li><a href="http://stmaryshyd.edu.pk/contact.html#">Educational Software Links</a></li>
+                                <li><a href="http://stmaryshyd.edu.pk/contact.html#">How to Improve hand writing</a></li>
+                                <li><a href="http://stmaryshyd.edu.pk/contact.html#">Motivational Quotations</a></li>
+                                
+								<li><a href="http://stmaryshyd.edu.pk/contact.html#">Student of the Year</a></li>
+                            </ul>
+						</div>
+                        <div class="foot_col4">
+	                        <div class="link1"><a href="./contact_files/contact.htm">Send us feedback</a></div>
+	                        <div class="link2"><a href="http://www.facebook.com/">Be a fan on Facebook</a></div>
+	                       
+	                        <div class="link4"><a href="http://www.twitter.com/">Follow us on Twitter</a></div>
+                             <div class="link3"><a href="http://stmaryshyd.edu.pk/contact.html#">Downloads</a></div>
+                        </div>
+                        <div style="clear: both"></div>
+                    </div>
+				</div>
+				<div id="footer_bot">
+                <div class="left" style="font-size:11px; color:#000">Design and Develop by <a href="http://rexrony.wordpress.com/" style="font-size:11px;">Ronald Joseph</a>&nbsp;<small>Copyright &copy; 2014</small></div>
+					</div></div>
+	
+</div></body></html>
